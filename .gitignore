@@ -1,0 +1,85 @@
+# ==================================
+# Python
+# ==================================
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ==================================
+# Ambientes virtuais (em qualquer pasta)
+# ==================================
+**/venv/
+**/env/
+**/.venv/
+**/.env/
+.venv/
+.env/
+
+# ==================================
+# Jupyter Notebooks
+# ==================================
+.ipynb_checkpoints/
+
+# ==================================
+# VSCode e IDEs
+# ==================================
+.vscode/
+.idea/
+*.code-workspace
+
+# ==================================
+# Arquivos temporários e logs
+# ==================================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ==================================
+# Arquivos de sistema
+# ==================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==================================
+# Arquivos de configuração de testes
+# ==================================
+.coverage
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+.cache/
+.pyre/
+.mypy_cache/
+
+# ==================================
+# Dados sensíveis (se for gerar)
+# ==================================
+.env
+*.env
+secrets.json
+credentials.json
+
+# ==================================
+# Arquivos de checkpoint de modelos
+# ==================================
+*.ckpt
+*.pth
+*.pt
+*.h5
+*.onnx
+
+# ==================================
+# Dados brutos (ajuste conforme o projeto)
+# ==================================
+data/raw/
+data/interim/
+data/processed/
