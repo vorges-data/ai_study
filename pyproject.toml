@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "llms"
+version = "0.1.0"
+description = "Ambiente para a seção de llms do treinamento"
+authors = ["vorges-data <vinicius.jborges36@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
