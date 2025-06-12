@@ -63,6 +63,11 @@ ai_study/
    poetry shell
    ```
 
+## License 
+This project incorporates content from **Scoras Academy**, which is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+**Attribution:** Original content by Scoras Academy.
+
 ## Notes
 
 - Each topic maintains its own isolated environment to avoid dependency conflicts
