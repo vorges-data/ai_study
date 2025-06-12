@@ -2,15 +2,14 @@
 name = "llms"
 version = "0.1.0"
 description = "LLMS study"
-authors = ["vorges-data <vinicius.jborges36@gmail.com>"]
-readme = "README.md"
+authors = ["Your Name <your.email@example.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.11"
+numpy = "^2.3.0"
 jupyter = "^1.1.1"
 ipykernel = "^6.29.5"
 
-
 [build-system]
 requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+build-backend = "poetry.core.masonry.api" 
