@@ -6,15 +6,15 @@ This repo includes experiments, notes, and practical projects across a wide rang
 
 ## Topics Covered
 
-- **LLMs** – Large Language Models and their use cases
-- **SLMs** – Small Language Models for edge and low-resource scenarios  
-- **Practical AI Projects** – End-to-end solutions and hands-on implementations
-- **AI App Deployment** – How to deploy AI-powered applications
-- **LangGraph** – Graph-based orchestration for LLM workflows
-- **Langflow** – Visual interface for chaining LLM components
-- **RAG** – Retrieval-Augmented Generation implementations
-- **LLM Routing** – Dynamic model routing and intelligent switching
-- **PydanticAI** – Structured data validation in AI pipelines using Pydantic
+- **LLMs** – Large Language Models and their use cases - _In progress_
+- **SLMs** – Small Language Models for edge and low-resource scenarios - _Coming soon_
+- **Practical AI Projects** – End-to-end solutions and hands-on implementations - _Coming soon_
+- **AI App Deployment** – How to deploy AI-powered applications - _Coming soon_
+- **LangGraph** – Graph-based orchestration for LLM workflows - _Coming soon_
+- **Langflow** – Visual interface for chaining LLM components - _Coming soon_
+- **RAG** – Retrieval-Augmented Generation implementations - _Coming soon_
+- **LLM Routing** – Dynamic model routing and intelligent switching - _Coming soon_
+- **PydanticAI** – Structured data validation in AI pipelines using Pydantic - _Coming soon_
 
 ## Structure
 
